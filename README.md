@@ -211,7 +211,7 @@ Code changes pushed to GitHub can trigger the automated deployment workflow.
 http://54.253.157.83
 
 **Watch Demo:**
-https://github.com/user-attachments/assets/ae838775-5b46-4aa1-8dc6-591f4eaedc27
+https://drive.google.com/file/d/1tnQd_k1PMuiJ37v_aPGb8QLIepkvkOCT/view?usp=sharing
 
 **GitHub Repository:**
 https://github.com/aleenay3/employee-management-system
