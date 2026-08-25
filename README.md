@@ -1,156 +1,167 @@
-# Employee Management System
+# Aleena Kanwal — Software Engineer | C#/.NET | Full Stack | Data & Analytics
 
-A full-stack Employee Management System developed by **Aleena Kanwal**, a Software Engineer with around **7 years of professional experience** in enterprise software development, financial applications, C#/.NET, SQL, databases, reporting, data-driven systems, and modern full-stack development.
+I am a Software Engineer with around **7 years of professional experience** in enterprise software development, financial applications, C#/.NET, SQL, databases, reporting, data-driven systems, and modern full-stack development.
 
-This project demonstrates my transition from enterprise **C#/.NET development** into modern full-stack technologies including **Next.js, NestJS, PostgreSQL, Prisma, AWS, and CI/CD**.
-
-My professional experience includes enterprise financial software development, SQL Server and Oracle databases, reporting, data validation, reconciliation, troubleshooting, testing, UAT, production support, and international project assignments in **Seoul, South Korea**.
+My experience includes enterprise financial software, database development, reporting, data validation, reconciliation, testing, UAT, production support, troubleshooting, application enhancement, and software deployment.
 
 ---
 
-# About the Developer
+# Professional Experience
 
-**Aleena Kanwal** is a Software Engineer with approximately **7 years of professional experience** in enterprise application development and business-critical software systems.
+### Principal Software Engineer — NetSol Technologies
 
-## Professional Experience
+**July 2024 – June 2026**
 
-- Enterprise application development using **C# and .NET**
-- Financial software and business-critical applications
-- SQL Server and Oracle databases
-- Database queries and data processing
-- Data validation and reconciliation
-- Enterprise reporting and reporting systems
-- Data migration and troubleshooting
-- Application testing and UAT
-- Production support and issue investigation
-- Application enhancement and maintenance
-- Enterprise software delivery and deployment
-- International project experience in **Seoul, South Korea**
+* Developed and maintained enterprise financial applications using **C# and .NET**.
+* Worked with complex business workflows, databases, and enterprise application architecture.
+* Worked with **SQL Server, Oracle, and reporting systems**.
+* Performed debugging, testing, root-cause analysis, and production issue investigation.
+* Contributed throughout the software development lifecycle.
 
-## Modern Technical Development
+### Senior Software Engineer — NetSol Technologies
 
-In addition to my enterprise .NET background, I have expanded my technical stack into modern full-stack development:
+**June 2022 – June 2024**
 
-- Next.js
-- React
-- NestJS
-- Node.js
-- TypeScript
-- PostgreSQL
-- Prisma
-- REST APIs
-- JWT Authentication
-- Role-Based Authorization
+* Developed enterprise applications using **C#, .NET, and SQL**.
+* Worked on financial software and business-critical application modules.
+* Worked directly with international clients and teams during project assignments in **Seoul, South Korea**.
+* Contributed to application delivery, deployment, testing, UAT, and production support.
+* Worked with database queries, data validation, reporting, and troubleshooting.
+
+### Software Engineer — NetSol Technologies
+
+**October 2019 – May 2022**
+
+* Built and maintained enterprise applications using **C# and .NET**.
+* Worked with **SQL Server and Oracle databases**.
+* Developed reports and supported data-related business requirements.
+* Performed debugging, testing, and production issue analysis.
+
+---
+
+# International Experience
+
+## Seoul, South Korea 🇰🇷
+
+Gained international project experience through enterprise software engagements involving clients and teams in **Seoul, South Korea**.
+
+Experience included enterprise application development, data validation, testing, deployment activities, and production support.
+
+---
+
+# Technical Expertise
+
+## Software Engineering
+
+* C#
+* .NET
+* ASP.NET MVC
+* WPF
+* XAML
+* MVVM
+* Entity Framework
+* EF Core
+* LINQ
+* REST APIs
 
 ## Data & Analytics
 
-My software engineering experience has provided extensive exposure to business data, databases, reporting, and data-intensive enterprise applications.
+* SQL
+* SQL Server
+* Oracle
+* PostgreSQL
+* Data Extraction
+* Data Validation
+* Data Reconciliation
+* Data Migration
+* Reporting
+* Excel
+* ETL
+* Power BI
+* Business Intelligence
 
-Current data and analytics skills include:
+## Modern Full-Stack Development
 
-- SQL
-- SQL Server
-- Oracle
-- PostgreSQL
-- Data Extraction
-- Data Validation
-- Data Reconciliation
-- Data Migration
-- Reporting
-- Excel
-- ETL
-- Power BI
-- Business Intelligence
+* Next.js
+* React
+* NestJS
+* Node.js
+* TypeScript
+* Prisma
+* JWT
+* REST APIs
 
 ## Cloud & DevOps
 
-I have also developed practical experience deploying and maintaining applications in AWS:
-
-- AWS EC2
-- Linux
-- Apache
-- PM2
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
+* AWS EC2
+* Linux
+* Apache
+* PM2
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
 
 ---
 
-# Project Overview
+# Featured Project — Employee Management System
 
-The Employee Management System is a production-style full-stack application designed to demonstrate modern software engineering practices while building on my existing experience with enterprise applications, databases, authentication, and business data.
+A production-style full-stack application demonstrating modern software engineering practices, authentication, authorization, database management, REST APIs, and cloud deployment.
 
-The system provides employee and department management functionality with authentication, authorization, database relationships, REST APIs, and cloud deployment.
+## Features
 
----
-
-# Features
-
-- User registration and login
-- JWT authentication
-- Role-based authorization
-- Protected routes
-- Employee CRUD operations
-- Department CRUD operations
-- Search and filtering
-- Pagination
-- Data validation
-- PostgreSQL database
-- Prisma ORM
-- Database relationships
-- Transactions
-- REST API
-- Swagger API documentation
-- Error handling
-- AWS EC2 deployment
-- PM2 process management
-- Apache reverse proxy
-- GitHub Actions CI/CD
+* User registration and login
+* JWT authentication
+* Role-based authorization
+* Protected routes
+* Employee CRUD operations
+* Department CRUD operations
+* Search and filtering
+* Pagination
+* Data validation
+* PostgreSQL database
+* Prisma ORM
+* Database relationships
+* Transactions
+* REST API
+* Swagger API documentation
+* AWS EC2 deployment
+* PM2 process management
+* Apache reverse proxy
+* GitHub Actions CI/CD
 
 ---
 
-# Tech Stack
+# Project Technology Stack
 
 ## Frontend
 
-- Next.js
-- React
-- TypeScript
-- HTML
-- CSS
+* Next.js
+* React
+* TypeScript
+* HTML
+* CSS
 
 ## Backend
 
-- NestJS
-- Node.js
-- TypeScript
-- Prisma
-- PostgreSQL
-- JWT
-- REST API
-- Swagger
-
-## Database
-
-- PostgreSQL
-- Prisma ORM
-- SQL
-- Relational database design
-- Relationships
-- Transactions
-- Raw SQL
+* NestJS
+* Node.js
+* TypeScript
+* Prisma
+* PostgreSQL
+* JWT
+* REST API
+* Swagger
 
 ## Cloud & DevOps
 
-- AWS EC2
-- Amazon Linux
-- Apache
-- PM2
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
+* AWS EC2
+* Amazon Linux
+* Apache
+* PM2
+* Git
+* GitHub Actions
+* CI/CD
 
 ---
 
@@ -178,22 +189,49 @@ employee-management-system/
 └── README.md
 ```
 
-# Author
+---
 
-## Aleena Kanwal
+# Cloud Deployment
 
-Software Engineer with around **7 years of professional experience** in enterprise software development, financial applications, databases, reporting, data-driven systems, and modern full-stack development.
+The application is deployed on **AWS EC2** using:
 
-My professional background includes **C#/.NET, SQL Server, Oracle, enterprise financial systems, data validation, reconciliation, reporting, testing, UAT, production support, troubleshooting, application enhancement, and software deployment**.
+* Apache
+* PM2
+* PostgreSQL
+* GitHub Actions
+* CI/CD
 
-I have also expanded my technical expertise into modern technologies including **Next.js, React, NestJS, Node.js, TypeScript, PostgreSQL, Prisma, AWS, GitHub Actions, and CI/CD**.
+Code changes pushed to GitHub can trigger the automated deployment workflow.
 
-International project experience in **Seoul, South Korea**, with experience in enterprise software delivery and deployment.
+---
 
-### Connect With Me
+# Project Links
 
-**GitHub:**  
+**Live Demo:**
+http://54.253.157.83
+
+**Watch Demo:**
+https://github.com/user-attachments/assets/ae838775-5b46-4aa1-8dc6-591f4eaedc27
+
+**GitHub Repository:**
+https://github.com/aleenay3/employee-management-system
+
+**Portfolio:**
+https://aleenay3.github.io/
+
+---
+
+# Connect With Me
+
+**GitHub:**
 https://github.com/aleenay3
 
-**LinkedIn:**  
+**LinkedIn:**
 https://www.linkedin.com/in/aleenay3/
+
+---
+
+**Aleena Kanwal**
+Software Engineer · C#/.NET · Full Stack · Data & Analytics · Cloud & DevOps
+
+**International Project Experience — Seoul, South Korea 🇰🇷**
