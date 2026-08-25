@@ -177,7 +177,7 @@ employee-management-system/
 │
 └── README.md
 
----
+```text
 
 # Author
 
@@ -195,4 +195,5 @@ https://github.com/aleenay3
 
 LinkedIn:  
 https://www.linkedin.com/in/aleenay3/
----
+
+```text
