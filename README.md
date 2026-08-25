@@ -8,11 +8,11 @@ My professional experience includes enterprise financial software development, S
 
 ---
 
-## About the Developer
+# About the Developer
 
 **Aleena Kanwal** is a Software Engineer with approximately **7 years of professional experience** in enterprise application development and business-critical software systems.
 
-### Professional Experience
+## Professional Experience
 
 - Enterprise application development using **C# and .NET**
 - Financial software and business-critical applications
@@ -27,7 +27,7 @@ My professional experience includes enterprise financial software development, S
 - Enterprise software delivery and deployment
 - International project experience in **Seoul, South Korea**
 
-### Modern Technical Development
+## Modern Technical Development
 
 In addition to my enterprise .NET background, I have expanded my technical stack into modern full-stack development:
 
@@ -42,7 +42,7 @@ In addition to my enterprise .NET background, I have expanded my technical stack
 - JWT Authentication
 - Role-Based Authorization
 
-### Data & Analytics
+## Data & Analytics
 
 My software engineering experience has provided extensive exposure to business data, databases, reporting, and data-intensive enterprise applications.
 
@@ -62,7 +62,7 @@ Current data and analytics skills include:
 - Power BI
 - Business Intelligence
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 I have also developed practical experience deploying and maintaining applications in AWS:
 
@@ -176,21 +176,24 @@ employee-management-system/
 │       └── deploy.yml
 │
 └── README.md
-
-```text
+```
 
 # Author
 
 ## Aleena Kanwal
 
-Software Engineer with around 7 years of experience in:
+Software Engineer with around **7 years of professional experience** in enterprise software development, financial applications, databases, reporting, data-driven systems, and modern full-stack development.
 
-**C#/.NET | Enterprise Financial Systems | SQL & Databases | Data & Analytics | Full Stack Development | AWS | CI/CD**
+My professional background includes **C#/.NET, SQL Server, Oracle, enterprise financial systems, data validation, reconciliation, reporting, testing, UAT, production support, troubleshooting, application enhancement, and software deployment**.
 
-International project experience in **Seoul, South Korea**.
+I have also expanded my technical expertise into modern technologies including **Next.js, React, NestJS, Node.js, TypeScript, PostgreSQL, Prisma, AWS, GitHub Actions, and CI/CD**.
 
-GitHub:  
+International project experience in **Seoul, South Korea**, with experience in enterprise software delivery and deployment.
+
+### Connect With Me
+
+**GitHub:**  
 https://github.com/aleenay3
 
-LinkedIn:  
+**LinkedIn:**  
 https://www.linkedin.com/in/aleenay3/
