@@ -181,8 +181,7 @@ employee-management-system/
 
 # Author
 
-```text
-### Aleena Kanwal
+## Aleena Kanwal
 
 Software Engineer with around 7 years of experience in:
 
@@ -195,5 +194,3 @@ https://github.com/aleenay3
 
 LinkedIn:  
 https://www.linkedin.com/in/aleenay3/
-
-```text
